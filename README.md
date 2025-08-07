@@ -3,13 +3,13 @@
 This real-world internship project uses predictive analytics to help retail businesses forecast future sales using historical transaction data. It combines data science, time series modeling, and interactive dashboarding to create business-ready insights that aid decision-making.
 
 ##  Project Objectives
--Clean and structure retail sales data
+-Cleane and structure retail sales data.
 
--Engineer features like seasonal trends, holidays, and category-wise sales
+-Engineer features like seasonal trends, holidays, and category-wise sales.
 
--Train a forecasting model using Prophet, ARIMA, or XGBoost
+-Train a forecasting model using Prophet.
 
--Visualize actual vs forecasted sales trends in Power BI
+-Visualize actual vs forecasted sales trends in Power BI.
 
 -Deliver actionable recommendations to increase revenue and manage inventory
 
@@ -30,12 +30,14 @@ This real-world internship project uses predictive analytics to help retail busi
 -Jupyter Notebook – Workflow documentation
 
 -Power BI – Final dashboard for decision-makers
+
 ##  Results & Impact
+
 The project enables retail businesses to:
 
--Anticipate sales demand with 70–90% accuracy
+-Anticipate sales demand with 70–90% accuracy.
 
--Plan inventory, staffing, and promotions ahead of time
+-Plan inventory, staffing, and promotions ahead of time.
 
--Identify seasonal dips and adjust marketing strategy accordingly
+-Identify seasonal dips and adjust marketing strategy accordingly.
 
